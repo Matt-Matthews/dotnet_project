@@ -6,7 +6,6 @@ using AutoMapper;
 using Domain;
 using MediatR;
 using Persistence;
-using SQLitePCL;
 
 namespace Application.Activities
 {
