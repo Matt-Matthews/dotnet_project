@@ -1378,11 +1378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1404,11 +1404,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

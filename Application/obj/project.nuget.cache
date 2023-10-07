@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgN0S6B+y7hQ0IC59W4fwiUfetZVsTTSnSz/F4hilXjFbuh0rWVT1QzW+VvX4GZc9Lng1rp7uf7t2WHcGC2Ymw==",
+  "dgSpecHash": "V67XcK5ZxODIDj7J7HaFNo1W+7tTezBk2NM7wyixBppwo+6/vG8oPeGupxdy20E6jdjYAWhAaEU8LiWjcVgcEg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Documents\\projects\\csharp\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
